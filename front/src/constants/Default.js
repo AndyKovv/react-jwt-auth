@@ -1,0 +1,1 @@
+export const GET_REQUEST_FAIL = 'GET_REQUEST_FAIL'

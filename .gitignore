@@ -1,0 +1,9 @@
+front/node_modules/
+front/dist/
+front/build/
+front/tests/components/
+front/tests/layouts/
+front/tests/routes/
+front/blueprints/
+
+*.log
